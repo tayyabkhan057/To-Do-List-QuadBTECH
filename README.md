@@ -95,4 +95,4 @@ Follow these steps to get the project running locally on your machine.
    First, clone the GitHub repository to your local machine. Open your terminal and run the following command:
 
    ```bash
-   git clone https://github.com/Anand98013/To-Do-List-QuadBTECH.git
+   gh repo clone tayyabkhan057/To-Do-List-QuadBTECH
